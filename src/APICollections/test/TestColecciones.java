@@ -41,11 +41,10 @@ public class TestColecciones {
 
         Map miMapa = new HashMap();
         // Agregar elementos
-        miMapa.put("valor1","Juan");// La llave seria valor1..... El valor "Juan"
-        miMapa.put("Valor2", "Karla"); // La llave seria valor2..... El valor "Karla"
-        miMapa.put("Valor3", "Rosario");// // La llave seria valor3..... El valor "Rosario"
-
-        miMapa.put("Valor3", "Rosario");// No se permite duplicar.
+        miMapa.put("key1","Juan");// La llave seria key1..... El valor "Juan"
+        miMapa.put("key2", "Karla"); // La llave seria key2..... El valor "Karla"
+        miMapa.put("key3", "Rosario");// // La llave seria key3..... El valor "Rosario"
+        miMapa.put("key3", "Se sustituye, mas no se repite.");// No se permite duplicar. Y se sustituye si se cambia el valor.
 
             // Imprimir por llave
 
