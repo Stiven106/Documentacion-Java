@@ -38,6 +38,14 @@ public class TeoriaConceptosJSPs {
 
         5. Se ejecuta el metodo destroy()
 
+
+                DIFERENCIAS ENTRE SERVLET Y JAVA SERVER PAGES
+                
+            Servlet:Un Servlet utiliza codigo Java e internamente tenemos que agregar codigo HTML.
+            JSPs: El JSP esta enfocado en utilizar codigo HTML e insertar codigo Java.
+
+        Por eso es que utilizar un Servlet y agregar contenido Html no se recomienda. Pero Un JSPs si se recomienda.
+
      */
 
 
