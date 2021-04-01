@@ -26,7 +26,7 @@ public class Verificada_NoVerificada {
     public static void main(String[] args) throws FileNotFoundException, IOException {
         // Excepciones Verificadas (IOException)
 
-            // Lectura de un archivo de texto (.text)
+        // Lectura de un archivo de texto (.text)
         BufferedReader bf = new BufferedReader(new FileReader("D:\\prueba\\texto.txt"));
         /*
         Supongamos que alguien borra ese archivo, en ese caso es una IOException = Excepcion Verificada.
@@ -40,7 +40,7 @@ public class Verificada_NoVerificada {
 
         //
 
-        while((linea=bf.readLine()) !=null) {
+        while ((linea = bf.readLine()) != null) {
             System.out.println(linea);
             /*
             error: FileNotFoundException
@@ -50,10 +50,10 @@ public class Verificada_NoVerificada {
         }
 
         // Excepciones NO Verificadas (RunTimeExcepcion)
-            // Division entre 0
+        // Division entre 0
 
-        int num1=5,num2=0;
-        int resultado = num1/num2;
+        int num1 = 5, num2 = 0;
+        int resultado = num1 / num2;
         System.out.println("resultado = " + resultado);// En estas excepciones no se suele utilizar try catch, sin embargo se puede.
 
        /*
