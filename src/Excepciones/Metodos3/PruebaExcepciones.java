@@ -14,7 +14,7 @@ import java.io.IOException;
 
 public class PruebaExcepciones {
 
-    public void leerArchivos() throws FileNotFoundException{
+    public void leerArchivos() throws FileNotFoundException {
 
         /*
         Como leer metodo con: throws FileNotFoundException {}:
