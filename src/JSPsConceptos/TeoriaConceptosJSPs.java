@@ -40,7 +40,7 @@ public class TeoriaConceptosJSPs {
 
 
                 DIFERENCIAS ENTRE SERVLET Y JAVA SERVER PAGES
-                
+
             Servlet:Un Servlet utiliza codigo Java e internamente tenemos que agregar codigo HTML.
             JSPs: El JSP esta enfocado en utilizar codigo HTML e insertar codigo Java.
 
