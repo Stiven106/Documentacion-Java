@@ -8,7 +8,7 @@ public class TeoriaDirectivas {
         Las directivas nos permiten controlar el comportamiento de un JSP
 
             Con las directivas podemos especificar:
-            
+
                 *Las clases Java que queremos importar en un JSP
                 *El tipo MIME utilizado
                 *Indicar si el JSP puede acceder a la sesion HTTP
