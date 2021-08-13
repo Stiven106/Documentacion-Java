@@ -1,4 +1,4 @@
-package GenericsColecciones;
+package GenericsColecciones.test;
 
 import java.util.*;
 

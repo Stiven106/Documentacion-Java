@@ -21,9 +21,5 @@ public abstract class SerVivo {
     Orden de clases a revisar dentro del paquete: 1. Planta, 2.Animal, 3.AnimalCarnivoro, 4. test.
      */
 
-    public abstract void alimentarse();{
-
-
-
-    }
+    public abstract void alimentarse();{}
 }

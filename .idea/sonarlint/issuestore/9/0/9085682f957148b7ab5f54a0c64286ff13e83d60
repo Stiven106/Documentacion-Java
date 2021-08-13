@@ -1,0 +1,12 @@
+
+
+java:S1130"xRemove the declaration of thrown exception 'java.io.FileNotFoundException' which is a subclass of 'java.io.IOException'.(¬úÊù
+\
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(èòßüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(íåÓƒÿÿÿÿÿ
+H
+java:S1135$"2Complete the task associated to this TODO comment.(¦®¿î
+S	java:S1065"9Replace this use of System.out or System.err by a logger.(ŸÛåöûÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(—€çÖùÿÿÿÿ
+b
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(–ƒÌı

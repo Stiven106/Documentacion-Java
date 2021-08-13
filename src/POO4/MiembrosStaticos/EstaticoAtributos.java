@@ -20,9 +20,6 @@ public class EstaticoAtributos {
         EstaticoAtributos objeto1 = new EstaticoAtributos();
         EstaticoAtributos objeto2 = new EstaticoAtributos();
 
-
-
-
         // Static:
 
         objeto2.frase = "static frase"; // Como la variable es static, el valor se ejecuta en todos los objetos.
@@ -31,9 +28,6 @@ public class EstaticoAtributos {
         // Observa como el resultado de frase (variable static), cuando se cambia su valor en un objeto, cambia en el resto de objetos tambien.
         System.out.println(objeto1.frase);
         System.out.println(objeto2.frase);
-
-
-
 
         // No Static
 

@@ -1,0 +1,15 @@
+
+[
+java:S1854A"@Remove this useless assignment to local variable "elementoMapa".(Û©¼‰þÿÿÿÿ
+W
+java:S1854&"<Remove this useless assignment to local variable "elemento".(²µ¥Åþÿÿÿÿ
+H
+java:S1481&"-Remove this unused "elemento" local variable.(²µ¥Åþÿÿÿÿ
+L
+java:S1481A"1Remove this unused "elementoMapa" local variable.(Û©¼‰þÿÿÿÿ
+B
+java:S1602\",Remove useless curly braces around statement(þŸÃ³
+S	java:S106]"9Replace this use of System.out or System.err by a logger.(¦½µ¸øÿÿÿÿ
+]
+java:S1192"HDefine a constant instead of duplicating this literal "Viernes" 4 times.(‰æü
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(óÓÍòýÿÿÿÿ

@@ -1,0 +1,7 @@
+
+9
+java:S2326"$varPrivada is not used in the class.(ÿƒ·N
+]	java:S119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(ÿƒ·N
+q
+java:S1104!"VMake varPublica a static final constant or non-public and provide accessors if needed.(ú—ëŽýÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ÿ¬ò«

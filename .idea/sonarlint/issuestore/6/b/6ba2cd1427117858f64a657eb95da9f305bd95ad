@@ -1,0 +1,13 @@
+
+“
+java:S1130"xRemove the declaration of thrown exception 'java.io.FileNotFoundException' which is a subclass of 'java.io.IOException'.(À…ýóþÿÿÿÿ
+=
+java:S16597""Declare "num2" on a separate line.(¶²éžýÿÿÿÿ
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(íåÓƒÿÿÿÿÿ
+S	java:S1069"9Replace this use of System.out or System.err by a logger.(©”þ³ûÿÿÿÿ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ø¿Êš
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÀÞô°ýÿÿÿÿ
+U
+java:S35188":Make sure "num2" can't be zero before doing this division.(Õ²ôñøÿÿÿÿ
+g
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(©ŠÏµûÿÿÿÿ

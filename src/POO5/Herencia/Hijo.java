@@ -13,7 +13,7 @@ public class Hijo extends Padre{
     super(nombre,apellido,edad);
     /*
     Con esto decimos que esos atributos (nombre, apellido,edad) ya estan inicializados dentro de la clase padre.
-    Por tanto ya no hace falta que se inicialicen de nuevo. Aqui se esta aplicando Herencia.
+    Por tanto ya no hace falta que se inicialicen de nuevo. Aqui se esta aplicando Herencia tambien.
     */
 
         this.codigoEstudiante = codigoEstudiante;

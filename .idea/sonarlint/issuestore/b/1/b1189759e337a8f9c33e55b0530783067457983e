@@ -1,0 +1,12 @@
+
+—
+java:S1186&"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘
+Q
+java:S1854"6Remove this useless assignment to local variable "fr".(­ûî¡ûÿÿÿÿ
+\
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(èòßüÿÿÿÿ
+B
+java:S1481"'Remove this unused "fr" local variable.(­ûî¡ûÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(»¾¯Ÿ
+c
+java:S2095"HUse try-with-resources or close this "FileReader" in a "finally" clause.(­ûî¡ûÿÿÿÿ

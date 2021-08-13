@@ -8,7 +8,7 @@ public class Empleado {
 
     public Empleado(String nombre, int sueldo) {
         this.nombre = nombre;
-        this.edad = edad;
+        this.sueldo = sueldo;
     }
 
     public String obtenerDetalles() {

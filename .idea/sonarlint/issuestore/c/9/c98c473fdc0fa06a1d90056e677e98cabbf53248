@@ -1,0 +1,8 @@
+
+=
+java:S1659""Declare "num2" on a separate line.(¶²éžýÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(§—‚ó
+N	java:S106&"9Replace this use of System.out or System.err by a logger.(Š·Õß
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Æ½·‹
+U
+java:S3518":Make sure "num2" can't be zero before doing this division.(Õ²ôñøÿÿÿÿ

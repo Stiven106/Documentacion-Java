@@ -1,0 +1,6 @@
+
+X
+java:S18546"=Remove this useless assignment to local variable "empleado2".(À‡•şÿÿÿÿ
+I
+java:S14816".Remove this unused "empleado2" local variable.(À‡•şÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(®ŞµÂıÿÿÿÿ
