@@ -1,0 +1,54 @@
+    Procurar haber terminado de estudiar la carpeta functionalLambdas para seguir en esta.
+
+    En este archivo encontraras el orden o secuencia para ir viendo los archivos al igual que la teoria basica del tema, recomiendo ver
+    o revisar este archivo siempre que se busque un repaso rapido o al iniciarse en el tema de programacion funcional. 
+
+                    Secuencia para estudiar los archivos
+        1. EjemploStream
+        2. EjemploMap
+        3. EjemploFilter
+        4. EjemploFilterSingle
+        5. EjemploFilterSingle2
+        6. EjemploAnyMatch
+        7. EjemploFilterEmpty
+        8. EjemploStreamDistinct
+        9. EjemploStreamReduce
+        10. EjemploStreamReduceEnteros
+        11. EjemploStreamRangeYStatics
+        12. EjemploFilterDistinctUsuario
+        13. EjemploFilterDistinctUsuarioSum
+
+        Clase en la carpeta models solo se utilizan en algunos archivos y es una clase usuario simple.
+        
+
+
+                    INICIO TEORIA
+
+        ¿Que son los stream?
+    
+    Combina las mejores ideas del iterator y la programacion funcional para implementar flujos de datos.
+    Es tambien una conduccion para poder realizar algun trabajo sobre los elementos de la fuente de datos que se maneje.
+    Es tambien de mucha importancia saber que un flujo no es una estructura de datos que almacena elementos, es decir, no es como las listas
+    las colecciones, etc... En su lugar transmite estos elementos de una fuente como un generador o un canal de entrada y salida a travez de esta "tuberia" de datos
+
+
+
+ 
+  
+
+  
+        Caracteristicas
+    
+    -Crea flujos de datos continuos que contiene operadores para procesar secuencias de elementos
+
+    -Los operadores reducen notablemente las tareas de transformaciones
+
+    -Transforma y compone flujos con los operadores map, filter, concat, distinct(), flatmap, sorted, foreach, reduce etc.
+
+    -Pueden ser creados desde listas, arreglos, rangos
+
+    -Son inmutables
+
+    -Concurrencia hecho facil
+
+
